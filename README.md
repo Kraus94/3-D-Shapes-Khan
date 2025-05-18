@@ -1,0 +1,9 @@
+var node0 = [-100, -100, -100];
+var node1 = [-100, -100, 100];
+var node2 = [-100, 100, -100];
+var node3 = [-100, 100, 100];
+var node4 = [ 100, -100, -100];
+var node5 = [ 100, -100, 100];
+var node6 = [ 100, 100, -100];
+var node7 = [ 100, 100, 100];
+var nodes = [node0, node1, node2, node3, node4, node5, node6, node7];
